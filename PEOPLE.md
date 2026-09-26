@@ -18,4 +18,41 @@ You can help by adding yourself or people you know in a <pull request>.
 
 | Name   | GitHub | Contacted? | LLM Use? |
 | ------ | ------ | ---------- | -------- |
-| aarant | aarant | x          | No       |
+| Ariel A | aarant | x          | No       |
+| abcboy101 | | | |
+| Alex Nash | | | No |
+| Bassoonian | | | Yes |
+| cawtds | | | |
+| DizzyEggg | | | |
+| Eduardo Quezada | | | |
+| Frank | | | |
+| GriffinR | | | |
+| Hedara | | x | No |
+| Icedude907 | | | |
+| Jaizu | | | Yes |
+| kaboissonneault | | | |
+| kittenchilly | | x | No |
+| Kurausukun | | | |
+| Lactozilla | | | |
+| leo60228 | | | |
+| LOuroboros | | | |
+| luckytyphlosion | | | |
+| marlux895 | | | |
+| Martin Griffin | | | No |
+| mid-kid | | | |
+| NT_x86 | | | |
+| Philipp AUER | | | |
+| pkmnsnfrn | | | |
+| psf | | | Yes |
+| quocmanh94 | | | |
+| Raymond Dodge | | | |
+| Rose | | | |
+| sbird | | | |
+| Scyrous | | | |
+| shachar700 | | | |
+| Sierraffinity | | | No |
+| Skye Chappelle | | | |
+| sneed | | | |
+| SnorlaxMonster | | | |
+| surtr-games | | | |
+| Thomas Winwood | | | |
