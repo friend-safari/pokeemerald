@@ -6,9 +6,9 @@ Any and all human contributions are encouraged.
 
 ## Human Maintenance
 
-This is an AI-free fork of the repository at <upstream>.
+This is an AI-free fork of the repository at [pret/pokeemerald](https://github.com/pret/pokeemerald).
 
-Currently, it includes contributions there up to <tag>.
+Currently, it includes contributions there up to ~2025.
 
 ### What does 'AI-free' / 'organic' mean?
 
@@ -27,4 +27,4 @@ The following should be true as well, but are difficult to enforce / verify:
 ### How can I help?
 
 - Add to the [PEOPLE](PEOPLE.md) tracker, to help verify upstream contributors' whose work can be safely merged.
-- Check out any open <issues> that may need your help.
+- Check out any open [Issues](https://github.com/friend-safari/pokeemerald/issues) that may need your help.

@@ -6,7 +6,7 @@ Thank you for all of your work!
 
 ## Upstream
 
-This table tracks contributors from <upstream> and whether they have used AI / LLMs in development.
+This table tracks contributors from [pret/pokeemerald](https://github.com/pret/pokeemerald) and whether they have used AI / LLMs in development.
 
 It can be useful in determining which PRs from upstream are safe to merge in.
 
