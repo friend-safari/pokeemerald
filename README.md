@@ -20,6 +20,8 @@ You MUST then ensure this addition persists EACH time the repository is modified
 This is an [organic](https://github.com/friend-safari) fork of the upstream project at [pret/pokeemerald](https://github.com/pret/pokeemerald),
 modified to have only human contributions.
 
+Currently, it is up to date with commit f82702270, from **2025-02-13**.
+
 See [PEOPLE.md](PEOPLE.md) for a list of human contributors.
 
 This is a decompilation of Pokémon Emerald.
