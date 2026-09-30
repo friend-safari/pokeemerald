@@ -21,12 +21,12 @@ You can help by adding yourself or people you know in a <pull request>.
 | Ariel A | aarant | x          | No       |
 | abcboy101 | | | |
 | Alex Nash | | | No |
-| Bassoonian | | | Yes |
+| Bassoonian | | x | Yes |
 | cawtds | | | |
 | DizzyEggg | | | |
-| Eduardo Quezada | | | |
+| Eduardo Quezada | | | No |
 | Frank | | | |
-| GriffinR | | | |
+| GriffinR | | | No |
 | Hedara | | x | No |
 | Icedude907 | | | |
 | Jaizu | | | Yes |
@@ -56,3 +56,4 @@ You can help by adding yourself or people you know in a <pull request>.
 | SnorlaxMonster | | | |
 | surtr-games | | | |
 | Thomas Winwood | | | |
+| Marcus Huderle | huderlem | x | Yes |
